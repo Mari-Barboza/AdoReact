@@ -1,0 +1,60 @@
+/* src/pages/Home.css */
+.home {
+  text-align: center;
+}
+
+nav {
+  background-color: #ff6347;
+  padding: 20px;
+}
+
+nav h1 {
+  color: white;
+}
+
+.container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+.produtos {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card {
+  background-color: #f4f4f4;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 22%;
+  margin: 10px;
+  padding: 20px;
+  text-align: left;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.card h3 {
+  margin: 10px 0 5px;
+}
+
+.card p {
+  margin: 5px 0;
+}
+
+.preco {
+  font-weight: bold;
+  color: #ff6347;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #ff6347;
+  color: white;
+  text-align: center;
+}
