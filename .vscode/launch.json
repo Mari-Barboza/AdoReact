@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AdoreactApplication<adoreact>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.adoreact.AdoreactApplication",
+            "projectName": "adoreact",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
