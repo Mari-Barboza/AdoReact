@@ -5,8 +5,6 @@ import java.util.List;
 
 @Service
 public class ProdutoService {
-    //vai
-
     // Aqui você pode injetar o repositório, por exemplo, ProdutoRepository, para acessar o banco de dados
     public List<Produto> listarProdutos() {
         // Lógica para listar os produtos

@@ -8,7 +8,7 @@ const App = () => {
         <div className="app">
             <Navbar />
             <div className="content">
-                <h1>Bem-vindo ao Adoreact!</h1>
+                <h1>Bem-vindo ao Adoreact!!!</h1>
                 <ProductList />
             </div>
             <Footer />
